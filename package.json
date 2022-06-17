@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.1.1",
+    "electron": "^15.5.5",
     "uuid": "^7.0.2"
   }
 }
